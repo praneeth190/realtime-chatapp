@@ -211,12 +211,4 @@ This will open `http://localhost:3000` in your browser.
 
 ---
 
-## Screenshots
 
-(Add screenshots of your running application here)
-
-- Login Page
-- Register Page  
-- Chat Page (with sidebar and messages)
-- Create Room Modal
-- Mobile Responsive View
