@@ -210,5 +210,28 @@ This will open `http://localhost:3000` in your browser.
 | user-typing | Server → Client | Broadcast typing status |
 
 ---
+## Screenshots
+**Login Page:**
+
+<img width="1915" height="1024" alt="login_page" src="https://github.com/user-attachments/assets/bd04844d-b5c3-4a4a-b219-7c9adc15a869" />
+
+**Register page:**
+
+<img width="1904" height="1004" alt="signup_page" src="https://github.com/user-attachments/assets/c077d6f6-cd38-4cca-80b2-60d88b75e782" />
+
+**Home page:**
+
+<img width="1904" height="999" alt="home_page" src="https://github.com/user-attachments/assets/72e16d30-252a-4e8d-9137-9f76fffbee5a" />
+
+
+**Direct messages page:**
+
+<img width="1902" height="1004" alt="direct_messages_page" src="https://github.com/user-attachments/assets/f187183c-8079-4a91-b33f-70f938aa04ed" />
+
+
+**Rooms page:**
+
+<img width="1907" height="1011" alt="rooms_page" src="https://github.com/user-attachments/assets/fa0b728e-c941-45e9-9b5f-059867d66a63" />
+
 
 
